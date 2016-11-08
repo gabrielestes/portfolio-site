@@ -1,7 +1,7 @@
 require 'test_helper'
 
 class PostsControllerTest < ActionDispatch::IntegrationTest
-  # test "the truth" do
-  #   assert true
-  # end
+  # describe "posts#index"
+  #   it "shows all posts"
+  #
 end
